@@ -79,9 +79,9 @@ Frontend applications using **React, Axios and REST APIs** for fetching and disp
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=ruchikumaridev&show_icons=true&theme=default)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=default)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ruchikumaridev&layout=compact&theme=default)
 
 <hr>
 
